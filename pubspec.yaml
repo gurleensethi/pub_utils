@@ -1,0 +1,11 @@
+name: pub_utils
+description: Friendly utilities for your dart and flutter development.
+version: 0.0.1
+author: Gurleen Sethi
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  yaml: ^2.2.0
